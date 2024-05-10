@@ -11,7 +11,7 @@ This project was developed as a proof of concept for the research: "real-time ma
 The dataset used is from NASA's Prognostics Data Repository, specifically the `IMS Bearing Data`. This data was generated with support from Rexnord Corp, and contains several datasets where each consists of vibration data recorded from bearings until failure.
 
 • Resource: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/
-• Download: https://data.nasa.gov/download/brfb-gzcv/application%2Fzip
+<br>• Download: https://data.nasa.gov/download/brfb-gzcv/application%2Fzip
 
 ### Data Description
 
